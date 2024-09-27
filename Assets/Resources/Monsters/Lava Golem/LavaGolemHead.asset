@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 596639aea2aecd34490c2aa5213f9cd0, type: 3}
+  m_Name: LavaGolemHead
+  m_EditorClassIdentifier: 
+  _id: 03BB_00005F9A
+  _name: Lava Golem Head
+  _icon: {fileID: 5389186433311916667, guid: 1742cc3fb74ee834b91e01c9ac43ced9, type: 3}
+  _description: 
+  _sprite: {fileID: 5389186433311916667, guid: 1742cc3fb74ee834b91e01c9ac43ced9, type: 3}
+  _type: 0
+  _synergy: {fileID: 11400000, guid: fe14ec8439c8f6d4eba928f03c90d679, type: 2}
+  _attributeSet:
+  - Attributes:
+    - _type: 4
+      _value: 20
+    - _type: 0
+      _value: 10
+    - _type: 5
+      _value: 4
+  - Attributes:
+    - _type: 4
+      _value: 30
+    - _type: 0
+      _value: 12
+    - _type: 5
+      _value: 4
+  - Attributes:
+    - _type: 4
+      _value: 35
+    - _type: 0
+      _value: 14
+    - _type: 5
+      _value: 5
+  _oldAttr:
+  - _type: 4
+    _value: 20
+  - _type: 0
+    _value: 10
+  - _type: 5
+    _value: 4

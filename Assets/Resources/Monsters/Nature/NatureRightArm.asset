@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 596639aea2aecd34490c2aa5213f9cd0, type: 3}
+  m_Name: NatureRightArm
+  m_EditorClassIdentifier: 
+  _id: 03BB_0000C334
+  _name: Nature Right Arm
+  _icon: {fileID: 6611952905166054769, guid: 232229e90b89ddf46ac501830312c379, type: 3}
+  _description: 
+  _sprite: {fileID: 6611952905166054769, guid: 232229e90b89ddf46ac501830312c379, type: 3}
+  _type: 3
+  _synergy: {fileID: 11400000, guid: fe14ec8439c8f6d4eba928f03c90d679, type: 2}
+  _attributeSet:
+  - Attributes:
+    - _type: 4
+      _value: 26
+    - _type: 1
+      _value: 21
+    - _type: 7
+      _value: 3
+  - Attributes:
+    - _type: 4
+      _value: 30
+    - _type: 1
+      _value: 23
+    - _type: 7
+      _value: 3
+  - Attributes:
+    - _type: 4
+      _value: 35
+    - _type: 1
+      _value: 25
+    - _type: 7
+      _value: 4
+  _oldAttr:
+  - _type: 4
+    _value: 26
+  - _type: 1
+    _value: 21
+  - _type: 7
+    _value: 3

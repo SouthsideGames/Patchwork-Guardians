@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d181ed938a427e41acf4a265c2a4d7f, type: 3}
+  m_Name: Wild Fury
+  m_EditorClassIdentifier: 
+  _id: 03FF_0000B932
+  _name: Wild Fury
+  _icon: {fileID: 0}
+  _description: A full set of Nature parts grants a 15% boost to all stats and a
+    chance to trigger a critical hit with every attack.
+  _behaviours:
+  - rid: 5216113362200166404
+  - rid: 5216113362200166405
+  - rid: 5216113362200166406
+  - rid: 5216113362200166407
+  - rid: 5216113362200166408
+  - rid: 5216113362200166409
+  - rid: 5216113362200166411
+  - rid: 5216113362200166410
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 5216113362200166404
+      type: {class: PassiveAttributeModifier, ns: MonsterBattleArena.Monster, asm: Assembly-CSharp}
+      data:
+        _condition:
+          rid: -2
+        _activateOnEnable: 1
+        _attributeType: 0
+        _modifier: 0.15
+    - rid: 5216113362200166405
+      type: {class: PassiveAttributeModifier, ns: MonsterBattleArena.Monster, asm: Assembly-CSharp}
+      data:
+        _condition:
+          rid: -2
+        _activateOnEnable: 1
+        _attributeType: 1
+        _modifier: 0.15
+    - rid: 5216113362200166406
+      type: {class: PassiveAttributeModifier, ns: MonsterBattleArena.Monster, asm: Assembly-CSharp}
+      data:
+        _condition:
+          rid: -2
+        _activateOnEnable: 1
+        _attributeType: 2
+        _modifier: 0.15
+    - rid: 5216113362200166407
+      type: {class: PassiveAttributeModifier, ns: MonsterBattleArena.Monster, asm: Assembly-CSharp}
+      data:
+        _condition:
+          rid: -2
+        _activateOnEnable: 1
+        _attributeType: 3
+        _modifier: 0.15
+    - rid: 5216113362200166408
+      type: {class: PassiveAttributeModifier, ns: MonsterBattleArena.Monster, asm: Assembly-CSharp}
+      data:
+        _condition:
+          rid: -2
+        _activateOnEnable: 1
+        _attributeType: 4
+        _modifier: 0.15
+    - rid: 5216113362200166409
+      type: {class: PassiveAttributeModifier, ns: MonsterBattleArena.Monster, asm: Assembly-CSharp}
+      data:
+        _condition:
+          rid: -2
+        _activateOnEnable: 1
+        _attributeType: 5
+        _modifier: 0.15
+    - rid: 5216113362200166410
+      type: {class: PassiveAttributeModifier, ns: MonsterBattleArena.Monster, asm: Assembly-CSharp}
+      data:
+        _condition:
+          rid: -2
+        _activateOnEnable: 1
+        _attributeType: 7
+        _modifier: 0.15
+    - rid: 5216113362200166411
+      type: {class: PassiveAttributeModifier, ns: MonsterBattleArena.Monster, asm: Assembly-CSharp}
+      data:
+        _condition:
+          rid: -2
+        _activateOnEnable: 1
+        _attributeType: 6
+        _modifier: 0.15

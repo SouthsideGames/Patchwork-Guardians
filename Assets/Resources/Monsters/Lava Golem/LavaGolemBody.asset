@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 596639aea2aecd34490c2aa5213f9cd0, type: 3}
+  m_Name: LavaGolemBody
+  m_EditorClassIdentifier: 
+  _id: 03BB_00005F7E
+  _name: Lava Golem Body
+  _icon: {fileID: -8363734739069613857, guid: 1742cc3fb74ee834b91e01c9ac43ced9, type: 3}
+  _description: 
+  _sprite: {fileID: -8363734739069613857, guid: 1742cc3fb74ee834b91e01c9ac43ced9, type: 3}
+  _type: 1
+  _synergy: {fileID: 11400000, guid: fe14ec8439c8f6d4eba928f03c90d679, type: 2}
+  _attributeSet:
+  - Attributes:
+    - _type: 4
+      _value: 100
+    - _type: 3
+      _value: 15
+  - Attributes:
+    - _type: 4
+      _value: 120
+    - _type: 3
+      _value: 15
+  - Attributes:
+    - _type: 4
+      _value: 140
+    - _type: 3
+      _value: 18
+  _oldAttr:
+  - _type: 4
+    _value: 100
+  - _type: 3
+    _value: 15

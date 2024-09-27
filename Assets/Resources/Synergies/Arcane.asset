@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc3038c2d89c244b80936644c5b3c74, type: 3}
+  m_Name: Arcane
+  m_EditorClassIdentifier: 
+  _id: 0357_0000945C
+  _name: Arcane Parts
+  _icon: {fileID: 0}
+  _description: null
+  _synergies:
+  - Name: Arcane Resonance
+    RequiredParts: 000000000200000003000000
+    Ability: {fileID: 11400000, guid: b64d7952e6d5c944a8c2be42acbe5520, type: 2}
+  - Name: Mystic Shield
+    RequiredParts: 010000000400000005000000
+    Ability: {fileID: 11400000, guid: f0a97512dd19ec14ba6d0f1411aebe65, type: 2}
+  - Name: Sorcerer's Wrath
+    RequiredParts: 010000000000000002000000030000000400000005000000
+    Ability: {fileID: 11400000, guid: ec0626a4da951fc48ac1c900794114e7, type: 2}

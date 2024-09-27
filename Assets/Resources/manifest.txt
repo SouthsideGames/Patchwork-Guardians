@@ -1,0 +1,68 @@
+02E8_FFFDD166;Items\EnchantCrystal_00;-1
+02E8_0002285C;Items\EnchantCrystal_01;-1
+03FF_0000C0CE;Monster Abilities\FriendsGuard;-1
+03FF_0000C0BA;Monster Abilities\Guard;-1
+03FF_0000C0B6;Monster Abilities\Nature's Grace;-1
+03FF_FFFFF604;Monster Abilities\Rage;-1
+03FF_0000BF56;Monster Abilities\Rotrary Slash;-1
+052C_0000BB14;StatusEffects\Bind;-1
+052C_00007ACA;StatusEffects\Bleed;-1
+052C_0000C12E;StatusEffects\Block;-1
+052C_0000BB2A;StatusEffects\Burn;-1
+052C_00007ABE;StatusEffects\Corrosion;-1
+0636_0000620E;StatusEffects\Entangle;-1
+052C_00006314;StatusEffects\Heal;-1
+052C_0000BB24;StatusEffects\Leech;-1
+052C_0000DD28;StatusEffects\Malfunction;-1
+052C_0000C114;StatusEffects\Overcharge;-1
+052C_0000C100;StatusEffects\Overcharged;-1
+052C_00007AC6;StatusEffects\Poison;-1
+052C_0000BB1C;StatusEffects\Regenerate;-1
+052C_0000BB20;StatusEffects\Shield;-1
+052C_00007AD0;StatusEffects\Slow;-1
+0357_0000945C;Synergies\Arcane;-1
+0357_00009458;Synergies\Industrial;-1
+0357_FFFFA3A4;Synergies\Nature;-1
+0357_00009460;Synergies\Tech;-1
+03FF_0000C13A;Monster Abilities\Arcane\Arcane Resonance;-1
+03FF_0000C13E;Monster Abilities\Arcane\Mystic Shield;-1
+03FF_0000C142;Monster Abilities\Arcane\Sorcere's Wrath;-1
+03FF_FFFF9DA6;Monster Abilities\Industrial\Forge Master;-1
+03FF_0000BA66;Monster Abilities\Industrial\Industrial Support;-1
+03FF_0000C0E4;Monster Abilities\Industrial\Reinforced Defense;-1
+03FF_0000B8FA;Monster Abilities\Nature\Natural Harmony;-1
+03FF_FFFFF20C;Monster Abilities\Nature\Photosynthesis Boost;-1
+03FF_0000B932;Monster Abilities\Nature\Wild Fury;-1
+03FF_0000C156;Monster Abilities\Tech\Cyber Boost;-1
+03FF_0000C152;Monster Abilities\Tech\Tech Overload;-1
+03FF_0000C15A;Monster Abilities\Tech\Technological Supremacy;-1
+03BB_0000C308;Monsters\Industrial\IndustrialBody;168
+03BB_00005F86;Monsters\Industrial\IndustrialHead;299
+03BB_00005F98;Monsters\Industrial\IndustrialLeftArm;272
+03BB_0000C314;Monsters\Industrial\IndustrialLeftLeg;308
+03BB_0000C318;Monsters\Industrial\IndustrialRightArm;72
+03BB_0000C31C;Monsters\Industrial\IndustrialRightLeg;108
+03BB_00005F7E;Monsters\Lava Golem\LavaGolemBody;168
+03BB_00005F9A;Monsters\Lava Golem\LavaGolemHead;299
+03BB_00005F9C;Monsters\Lava Golem\LavaGolemLeftArm;272
+03BB_00005F80;Monsters\Lava Golem\LavaGolemLeftLeg;308
+03BB_00005F88;Monsters\Lava Golem\LavaGolemRightArm;72
+03BB_00005F8A;Monsters\Lava Golem\LavaGolemRightLeg;108
+03BB_0000C324;Monsters\Nature\NatureBody;168
+03BB_0000C328;Monsters\Nature\NatureHead;299
+03BB_0000C32C;Monsters\Nature\NatureLeftArm;272
+03BB_0000C330;Monsters\Nature\NatureLeftLeg;308
+03BB_0000C334;Monsters\Nature\NatureRightArm;72
+03BB_0000C338;Monsters\Nature\NatureRightLeg;108
+03BB_00005F90;Monsters\Orc\OrcBody;168
+03BB_00006234;Monsters\Orc\OrcHead;299
+03BB_00006254;Monsters\Orc\OrcLeftArm;272
+03BB_00005F94;Monsters\Orc\OrcLeftLeg;308
+03BB_00005F84;Monsters\Orc\OrcRightArm;72
+03BB_00005F96;Monsters\Orc\OrcRightLeg;108
+03BB_0000C340;Monsters\Tech\TechBody;168
+03BB_0000C344;Monsters\Tech\TechHead;299
+03BB_0000C348;Monsters\Tech\TechLeftArm;272
+03BB_0000C34C;Monsters\Tech\TechLeftLeg;308
+03BB_0000C350;Monsters\Tech\TechRightArm;72
+03BB_0000C354;Monsters\Tech\TechRightLeg;108

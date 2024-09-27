@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 596639aea2aecd34490c2aa5213f9cd0, type: 3}
+  m_Name: LavaGolemLeftArm
+  m_EditorClassIdentifier: 
+  _id: 03BB_00005F9C
+  _name: Lava Golem Left Arm
+  _icon: {fileID: -3421662715025400721, guid: 1742cc3fb74ee834b91e01c9ac43ced9, type: 3}
+  _description: 
+  _sprite: {fileID: -3421662715025400721, guid: 1742cc3fb74ee834b91e01c9ac43ced9, type: 3}
+  _type: 2
+  _synergy: {fileID: 11400000, guid: fe14ec8439c8f6d4eba928f03c90d679, type: 2}
+  _attributeSet:
+  - Attributes:
+    - _type: 4
+      _value: 24
+    - _type: 1
+      _value: 15
+    - _type: 7
+      _value: 2
+  - Attributes:
+    - _type: 4
+      _value: 32
+    - _type: 1
+      _value: 16
+    - _type: 7
+      _value: 2
+  - Attributes:
+    - _type: 4
+      _value: 37
+    - _type: 1
+      _value: 18
+    - _type: 7
+      _value: 2
+  _oldAttr:
+  - _type: 4
+    _value: 24
+  - _type: 1
+    _value: 15
+  - _type: 7
+    _value: 2

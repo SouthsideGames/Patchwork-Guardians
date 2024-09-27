@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc3038c2d89c244b80936644c5b3c74, type: 3}
+  m_Name: Industrial
+  m_EditorClassIdentifier: 
+  _id: 0357_00009458
+  _name: Industrial Parts
+  _icon: {fileID: 0}
+  _description: null
+  _synergies:
+  - Name: Forge Master
+    RequiredParts: 000000000200000003000000
+    Ability: {fileID: 11400000, guid: ed63eadd9bf1b9e468ffd6cf68e33f0c, type: 2}
+  - Name: Industrial Support
+    RequiredParts: 010000000400000005000000
+    Ability: {fileID: 11400000, guid: 5ee5d99925ad0ed44a629340e2b214da, type: 2}
+  - Name: Reinforced Defense
+    RequiredParts: 000000000100000002000000030000000400000005000000
+    Ability: {fileID: 11400000, guid: 4e0f3c922d2f9e345b5c458ed04bc297, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3947f7efbcce9334e992781859f62c7a, type: 3}
+  m_Name: UISettings
+  m_EditorClassIdentifier: 
+  _primaryColor: {r: 0, g: 0, b: 0, a: 0}
+  _secondaryColor: {r: 0, g: 0, b: 0, a: 0}
+  _tertiaryColor: {r: 0, g: 0, b: 0, a: 0}
+  _primaryTextColor: {r: 0, g: 0, b: 0, a: 0}
+  _secondaryTextColor: {r: 0, g: 0, b: 0, a: 0}
+  _tertiaryTextColor: {r: 0, g: 0, b: 0, a: 0}
+  _popupBackgroundColor: {r: 0, g: 0, b: 0, a: 0.23529412}
+  _popupTransitionDuration: 0.15
+  _slotUnselected: {r: 1, g: 1, b: 1, a: 1}
+  _slotSelectedPrimary: {r: 0.89019614, g: 0.7411765, b: 0.3372549, a: 1}
+  _slotSelectedSecondary: {r: 0.41960788, g: 0.8588236, b: 0.8588236, a: 1}
+  _popupText:
+    _template: {fileID: 6756933063794546389, guid: b61a319688285d44f8167611a62808e6, type: 3}
+    _defaultColor: {r: 1, g: 1, b: 1, a: 1}
+    _positiveColor: {r: 0.5921569, g: 0.972549, b: 0.2627451, a: 1}
+    _negativeColor: {r: 0.972549, g: 0.3529412, b: 0.2627451, a: 1}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 596639aea2aecd34490c2aa5213f9cd0, type: 3}
+  m_Name: IndustrialHead
+  m_EditorClassIdentifier: 
+  _id: 03BB_00005F86
+  _name: Industrial Head
+  _icon: {fileID: -1571392437278408946, guid: 73e97c2418ddaa64684e3b77760bb881, type: 3}
+  _description: 
+  _sprite: {fileID: -1571392437278408946, guid: 73e97c2418ddaa64684e3b77760bb881, type: 3}
+  _type: 0
+  _synergy: {fileID: 11400000, guid: 8153020c36e964b46af5479e6d5058a6, type: 2}
+  _attributeSet:
+  - Attributes:
+    - _type: 4
+      _value: 15
+    - _type: 0
+      _value: 13
+    - _type: 5
+      _value: 5
+  - Attributes:
+    - _type: 4
+      _value: 21
+    - _type: 0
+      _value: 14
+    - _type: 5
+      _value: 6
+  - Attributes:
+    - _type: 4
+      _value: 28
+    - _type: 0
+      _value: 13
+    - _type: 5
+      _value: 6
+  _oldAttr:
+  - _type: 4
+    _value: 15
+  - _type: 0
+    _value: 13
+  - _type: 5
+    _value: 5
